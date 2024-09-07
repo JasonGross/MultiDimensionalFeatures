@@ -197,7 +197,7 @@ class MonthsOfYearTask:
 # %%
 
 if __name__ == "__main__":
-    task = MonthsOfYearTask(device, model_name="llama", dtype="float16")
+    task = MonthsOfYearTask(device, model_name="llama")
     # task = MonthsOfYearTask(device, model_name="mistral")
 
 # %%

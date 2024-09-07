@@ -182,7 +182,7 @@ class DaysOfWeekTask:
 # %%
 
 if __name__ == "__main__":
-    task = DaysOfWeekTask(device, model_name="llama", dtype="float16")
+    task = DaysOfWeekTask(device, model_name="llama")
     # task = DaysOfWeekTask(device, model_name="mistral")
 
 
